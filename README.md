@@ -26,7 +26,7 @@ In computing, a hash table, also known as hash map, is a data structure that imp
 ## Authors
 
 * Neil Chitre (https://github.com/NeilChitre2311)
-* Madhav Ponnudurai
+* Madhav Ponnudurai (https://github.com/pmadhav-usfca)
 * Manish Vuppugandla 
 
 ## Version History
