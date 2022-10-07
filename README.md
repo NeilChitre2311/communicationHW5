@@ -1,6 +1,4 @@
-# Project Title
-
-Implementation of Hashtables
+# Implementation of Hashtables
 
 ## Description
 
