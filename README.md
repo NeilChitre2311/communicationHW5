@@ -11,6 +11,7 @@ In computing, a hash table, also known as hash map, is a data structure that imp
 
 ### Installing
 
+* run `git clone https://github.com/NeilChitre2311/communicationHW5.git`
 * Place Hashtables.ipynb file and names.txt in the same directory.
 
 ### Executing program
