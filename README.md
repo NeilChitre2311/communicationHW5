@@ -16,7 +16,7 @@ In computing, a hash table, also known as hash map, is a data structure that imp
 
 ### Executing program
 
-* Run the cell which contains all the functions. 
+* Run the cell which contains all the functions.
 * Run the cell which extracts a random name from 1000 names.
 * Then run the cell which contains the linear search. This will search for the name and return a (name, age) tuple. Check the time taken. It should be around 1.7s
 * Run the cell which creates and populates the hashtable according to the hashfunction.
@@ -26,9 +26,8 @@ In computing, a hash table, also known as hash map, is a data structure that imp
 
 * Neil Chitre (https://github.com/NeilChitre2311)
 * Madhav Ponnudurai (https://github.com/pmadhav-usfca)
-* Manish Vuppugandla 
+* Manish Vuppugandla (https://github.com/ManishKumarV)
 
 ## Version History
 
 * 0.1
-    * Initial Release
