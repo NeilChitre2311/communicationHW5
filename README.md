@@ -44,8 +44,6 @@ t = [linear_search(users, user_to_search) for i in range(10000)]
 
 ## Lets try searching using Hashtables with custom bucket size.
 
-    IntSlider(value=26, description='Buckets: ', layout=Layout(width='800px'), max=1000, min=1)
-
 ```python
 table = create_empty_hash_table(s.value)
 table = populate_hashtable_2(table, users)
@@ -99,7 +97,7 @@ In computing, a hash table, also known as hash map, is a data structure that imp
 ### Installing
 
 * run `git clone https://github.com/NeilChitre2311/communicationHW5.git`
-* Place Hashtables.ipynb file and names.txt in the same directory.
+* go into the `communicationHW5` folder created and open Presentation.ipynb (notebook file).
 
 ### Executing program
 
